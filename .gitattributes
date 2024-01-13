@@ -1,1 +1,4 @@
-emotion_detection/** filter=lfs diff=lfs merge=lfs -text
+FacialEmotionRecognition/** filter=lfs diff=lfs merge=lfs -text
+images filter=lfs diff=lfs merge=lfs -text
+images/** filter=lfs diff=lfs merge=lfs -text
+models/** filter=lfs diff=lfs merge=lfs -text
